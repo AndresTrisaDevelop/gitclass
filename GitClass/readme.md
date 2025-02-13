@@ -21,8 +21,19 @@
 7- git commit -- amend
 # Ajustar ultimo Commit, se debe presionar insert editar texto del commit, luego escape, luego :wq!
 
-B- git checkout -b rama-heroes
+8- git checkout -b mi primera rama
+# crear rama
+
 9- git checkout master
-10- git branch -d rama-heroes
-11- git push
-12- git commit -am
+# Cambiar a rama master
+
+10- git merge mi primera rama
+# Merge ramas a rama principal
+
+11- git branch -d miprimerarama
+# Eliminar rama
+
+12- git push
+# enviar a repo github
+
+13- git commit -am
