@@ -1,0 +1,110 @@
+<DATA>
+    <!-- Option Master -->
+    <OPTION_MASTER>
+        <OPTION_GROUP>
+            <GROUP_NAME>Material</GROUP_NAME>
+            <STATUS>Active</STATUS>
+            <VALUES>
+                <OPTION>
+                    <CODE>MAT001</CODE>
+                    <DESCRIPTION>Wood</DESCRIPTION>
+                    <STATUS>Active</STATUS>
+                </OPTION>
+                <OPTION>
+                    <CODE>MAT002</CODE>
+                    <DESCRIPTION>Metal</DESCRIPTION>
+                    <STATUS>Inactive</STATUS>
+                </OPTION>
+            </VALUES>
+        </OPTION_GROUP>
+    </OPTION_MASTER>
+
+    <!-- Finish Master -->
+    <FINISH_MASTER>
+        <FINISH_GROUP>
+            <GROUP_NAME>Wood Finish</GROUP_NAME>
+            <STATUS>Active</STATUS>
+            <FINISH_OPTIONS>
+                <FINISH>
+                    <OPTION_NAME>Varnish</OPTION_NAME>
+                    <STATUS>Active</STATUS>
+                    <VALUES>
+                        <FINISH_VALUE>
+                            <CODE>FIN001</CODE>
+                            <DESCRIPTION>Glossy Varnish</DESCRIPTION>
+                            <CURRENCY>USD</CURRENCY>
+                            <PRICE>50.00</PRICE>
+                            <STATUS>Active</STATUS>
+                        </FINISH_VALUE>
+                        <FINISH_VALUE>
+                            <CODE>FIN002</CODE>
+                            <DESCRIPTION>Matte Varnish</DESCRIPTION>
+                            <CURRENCY>USD</CURRENCY>
+                            <PRICE>45.00</PRICE>
+                            <STATUS>Active</STATUS>
+                        </FINISH_VALUE>
+                    </VALUES>
+                </FINISH>
+            </FINISH_OPTIONS>
+        </FINISH_GROUP>
+    </FINISH_MASTER>
+
+    <!-- Catalogs -->
+    <CATALOGS>
+        <CATALOG>
+            <NUMBER>CAT001</NUMBER>
+            <NAME>Furniture Collection 2024</NAME>
+            <ACTIVATION_DATE>2024-01-01</ACTIVATION_DATE>
+            <EXPIRATION_DATE>2024-12-31</EXPIRATION_DATE>
+            <CURRENCY>USD</CURRENCY>
+            <DATE_CREATED>2023-11-25</DATE_CREATED>
+            <CREATED_BY>Admin</CREATED_BY>
+            <STATUS>Active</STATUS>
+            <SECTIONS>
+                <SECTION>
+                    <NAME>Living Room</NAME>
+                    <STATUS>Active</STATUS>
+                    <PRODUCT_GROUPS>
+                        <PRODUCT_GROUP>
+                            <CODE>PG001</CODE>
+                            <DESCRIPTION>Sofas</DESCRIPTION>
+                            <TYPE>Seating</TYPE>
+                            <LINKED_OPTION_GROUP_NAME>Material</LINKED_OPTION_GROUP_NAME>
+                            <LINKED_OPTION_GROUP_VALUES>
+                                <VALUE>Wood</VALUE>
+                                <VALUE>Metal</VALUE>
+                            </LINKED_OPTION_GROUP_VALUES>
+                            <LINKED_FINISH_GROUP_NAME>Wood Finish</LINKED_FINISH_GROUP_NAME>
+                            <LINKED_FINISH_OPTIONS>
+                                <OPTION>Varnish</OPTION>
+                            </LINKED_FINISH_OPTIONS>
+                            <LINKED_FINISH_OPTION_VALUES>
+                                <VALUE>Glossy Varnish</VALUE>
+                                <VALUE>Matte Varnish</VALUE>
+                            </LINKED_FINISH_OPTION_VALUES>
+                            <STATUS>Active</STATUS>
+                            <PRODUCT_ITEMS>
+                                <PRODUCT_ITEM>
+                                    <CODE>ITEM001</CODE>
+                                    <PRODUCT_DESCRIPTION>Modern Sofa</PRODUCT_DESCRIPTION>
+                                    <FILE_2D>modern_sofa.dxf</FILE_2D>
+                                    <FILE_3D>modern_sofa.obj</FILE_3D>
+                                    <PRICE>999.99</PRICE>
+                                    <STATUS>Active</STATUS>
+                                </PRODUCT_ITEM>
+                                <PRODUCT_ITEM>
+                                    <CODE>ITEM002</CODE>
+                                    <PRODUCT_DESCRIPTION>Classic Sofa</PRODUCT_DESCRIPTION>
+                                    <FILE_2D>classic_sofa.dxf</FILE_2D>
+                                    <FILE_3D>classic_sofa.obj</FILE_3D>
+                                    <PRICE>850.00</PRICE>
+                                    <STATUS>Active</STATUS>
+                                </PRODUCT_ITEM>
+                            </PRODUCT_ITEMS>
+                        </PRODUCT_GROUP>
+                    </PRODUCT_GROUPS>
+                </SECTION>
+            </SECTIONS>
+        </CATALOG>
+    </CATALOGS>
+</DATA>

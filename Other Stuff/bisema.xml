@@ -1,0 +1,2952 @@
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" code="12112024" day="12" desc="November12" month="11" version="1" year="2024">
+<HEADER>
+<VENDORS>
+<VENDOR code="FLC" desc="Bisema" rounding_id="round01" vendor_id="1"/>
+</VENDORS>
+<ROUNDINGS>
+<ROUNDING code="1" rounding_id="round01">Standard</ROUNDING>
+<ROUNDING code="2" rounding_id="round02">Miller UK</ROUNDING>
+</ROUNDINGS>
+<CURRENCIES>
+<CURRENCY code="1" currency_id="curr1">US Dollars</CURRENCY>
+</CURRENCIES>
+<LANGUAGES>
+<LANGUAGE intl_code="0" lang_id="lang0">Neutral</LANGUAGE>
+</LANGUAGES>
+<MEASURE_SYSTEMS>
+<MEASURE_SYSTEM measure_code="0" measure_id="meas0">Imperial</MEASURE_SYSTEM>
+</MEASURE_SYSTEMS>
+<CAD_PACKAGES>
+<CAD_PACKAGE cad_code="1" cad_id="AUTOCAD" desc="Auto CAD" folder="">
+<VIEWS>
+<VIEW folder="2D_DWG" view_code="1" view_id="view42">2D</VIEW>
+<VIEW folder="3D_DWG" view_code="3" view_id="view43">3D</VIEW>
+</VIEWS>
+</CAD_PACKAGE>
+</CAD_PACKAGES>
+<MULTIMEDIA>
+<MULTIMEDIA_TYPE folder="c:\media" multimedia_code="141" multimedia_id="mmedia141" toc_folder="c:\media">Notes</MULTIMEDIA_TYPE>
+<MULTIMEDIA_TYPE folder="c:\media" multimedia_code="142" multimedia_id="mmedia142" toc_folder="c:\media">Rendered</MULTIMEDIA_TYPE>
+</MULTIMEDIA>
+<PRICE_ZONES>
+<PRICE_ZONE currency_id="curr1" zone_id="zone1">List Price</PRICE_ZONE>
+</PRICE_ZONES>
+<PRODUCT_LINES>
+<PRODUCT_LINE code="Sect 5084" desc="Panel" line_id="line5084" sector="5084"/>
+</PRODUCT_LINES>
+</HEADER>
+<TABLE_OF_CONTENTS>
+<LEVEL level="0">
+<LABEL id="label0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">November12</TEXT>
+</DESCRIPTIONS>
+<LEVEL level="1">
+<LABEL id="label1">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Panel</TEXT>
+</DESCRIPTIONS>
+<LEVEL level="2">
+<LABEL id="label2">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel</TEXT>
+</DESCRIPTIONS>
+<TOC_ITEMS>
+<TOC_ITEM id="KP_TEE3024"/>
+<TOC_ITEM id="KP_TEE3030"/>
+<TOC_ITEM id="KP_TEE3036"/>
+<TOC_ITEM id="KP_TEE3042"/>
+<TOC_ITEM id="KP_TEE3048"/>
+<TOC_ITEM id="KP_TEE3054"/>
+<TOC_ITEM id="KP_TEE3060"/>
+<TOC_ITEM id="KP_TEE3624"/>
+<TOC_ITEM id="KP_TEE3630"/>
+<TOC_ITEM id="KP_TEE3636"/>
+<TOC_ITEM id="KP_TEE3642"/>
+<TOC_ITEM id="KP_TEE3648"/>
+<TOC_ITEM id="KP_TEE3654"/>
+<TOC_ITEM id="KP_TEE3660"/>
+<TOC_ITEM id="KP_TEE4224"/>
+<TOC_ITEM id="KP_TEE4230"/>
+<TOC_ITEM id="KP_TEE4236"/>
+<TOC_ITEM id="KP_TEE4242"/>
+<TOC_ITEM id="KP_TEE4248"/>
+<TOC_ITEM id="KP_TEE4254"/>
+<TOC_ITEM id="KP_TEE4260"/>
+<TOC_ITEM id="KP_TEE5124"/>
+<TOC_ITEM id="KP_TEE5130"/>
+<TOC_ITEM id="KP_TEE5136"/>
+<TOC_ITEM id="KP_TEE5142"/>
+<TOC_ITEM id="KP_TEE5148"/>
+<TOC_ITEM id="KP_TEE5154"/>
+<TOC_ITEM id="KP_TEE5160"/>
+<TOC_ITEM id="KP_TEE6624"/>
+<TOC_ITEM id="KP_TEE6630"/>
+<TOC_ITEM id="KP_TEE6636"/>
+<TOC_ITEM id="KP_TEE6642"/>
+<TOC_ITEM id="KP_TEE6648"/>
+<TOC_ITEM id="KP_TEE6654"/>
+<TOC_ITEM id="KP_TEE6660"/>
+<TOC_ITEM id="KP_TUU3024"/>
+<TOC_ITEM id="KP_TUU3030"/>
+<TOC_ITEM id="KP_TUU3036"/>
+<TOC_ITEM id="KP_TUU3042"/>
+<TOC_ITEM id="KP_TUU3048"/>
+<TOC_ITEM id="KP_TUU3054"/>
+<TOC_ITEM id="KP_TUU3060"/>
+<TOC_ITEM id="KP_TUU3624"/>
+<TOC_ITEM id="KP_TUU3630"/>
+<TOC_ITEM id="KP_TUU3636"/>
+<TOC_ITEM id="KP_TUU3642"/>
+<TOC_ITEM id="KP_TUU3648"/>
+<TOC_ITEM id="KP_TUU3654"/>
+<TOC_ITEM id="KP_TUU3660"/>
+<TOC_ITEM id="KP_TUU4224"/>
+<TOC_ITEM id="KP_TUU4230"/>
+<TOC_ITEM id="KP_TUU4236"/>
+<TOC_ITEM id="KP_TUU4242"/>
+<TOC_ITEM id="KP_TUU4248"/>
+<TOC_ITEM id="KP_TUU4254"/>
+<TOC_ITEM id="KP_TUU4260"/>
+<TOC_ITEM id="KP_TUU5124"/>
+<TOC_ITEM id="KP_TUU5130"/>
+<TOC_ITEM id="KP_TUU5136"/>
+<TOC_ITEM id="KP_TUU5142"/>
+<TOC_ITEM id="KP_TUU5148"/>
+<TOC_ITEM id="KP_TUU5154"/>
+<TOC_ITEM id="KP_TUU5160"/>
+<TOC_ITEM id="KP_TUU6624"/>
+<TOC_ITEM id="KP_TUU6630"/>
+<TOC_ITEM id="KP_TUU6636"/>
+<TOC_ITEM id="KP_TUU6642"/>
+<TOC_ITEM id="KP_TUU6648"/>
+<TOC_ITEM id="KP_TUU6654"/>
+<TOC_ITEM id="KP_TUU6660"/>
+<TOC_ITEM id="KP_TWW3024"/>
+<TOC_ITEM id="KP_TWW3030"/>
+<TOC_ITEM id="KP_TWW3036"/>
+<TOC_ITEM id="KP_TWW3042"/>
+<TOC_ITEM id="KP_TWW3048"/>
+<TOC_ITEM id="KP_TWW3054"/>
+<TOC_ITEM id="KP_TWW3060"/>
+<TOC_ITEM id="KP_TWW3624"/>
+<TOC_ITEM id="KP_TWW3630"/>
+<TOC_ITEM id="KP_TWW3636"/>
+<TOC_ITEM id="KP_TWW3642"/>
+<TOC_ITEM id="KP_TWW3648"/>
+<TOC_ITEM id="KP_TWW3654"/>
+<TOC_ITEM id="KP_TWW3660"/>
+<TOC_ITEM id="KP_TWW4224"/>
+<TOC_ITEM id="KP_TWW4230"/>
+<TOC_ITEM id="KP_TWW4236"/>
+<TOC_ITEM id="KP_TWW4242"/>
+<TOC_ITEM id="KP_TWW4248"/>
+<TOC_ITEM id="KP_TWW4254"/>
+<TOC_ITEM id="KP_TWW4260"/>
+<TOC_ITEM id="KP_TWW5124"/>
+<TOC_ITEM id="KP_TWW5130"/>
+<TOC_ITEM id="KP_TWW5136"/>
+<TOC_ITEM id="KP_TWW5142"/>
+<TOC_ITEM id="KP_TWW5148"/>
+<TOC_ITEM id="KP_TWW5154"/>
+<TOC_ITEM id="KP_TWW5160"/>
+<TOC_ITEM id="KP_TWW6624"/>
+<TOC_ITEM id="KP_TWW6630"/>
+<TOC_ITEM id="KP_TWW6636"/>
+<TOC_ITEM id="KP_TWW6642"/>
+<TOC_ITEM id="KP_TWW6648"/>
+<TOC_ITEM id="KP_TWW6654"/>
+<TOC_ITEM id="KP_TWW6660"/>
+<TOC_ITEM id="KP_TXX3024"/>
+<TOC_ITEM id="KP_TXX3030"/>
+<TOC_ITEM id="KP_TXX3036"/>
+<TOC_ITEM id="KP_TXX3042"/>
+<TOC_ITEM id="KP_TXX3048"/>
+<TOC_ITEM id="KP_TXX3054"/>
+<TOC_ITEM id="KP_TXX3060"/>
+<TOC_ITEM id="KP_TXX3624"/>
+<TOC_ITEM id="KP_TXX3630"/>
+<TOC_ITEM id="KP_TXX3636"/>
+<TOC_ITEM id="KP_TXX3642"/>
+<TOC_ITEM id="KP_TXX3648"/>
+<TOC_ITEM id="KP_TXX3654"/>
+<TOC_ITEM id="KP_TXX3660"/>
+<TOC_ITEM id="KP_TXX4224"/>
+<TOC_ITEM id="KP_TXX4230"/>
+<TOC_ITEM id="KP_TXX4236"/>
+<TOC_ITEM id="KP_TXX4242"/>
+<TOC_ITEM id="KP_TXX4248"/>
+<TOC_ITEM id="KP_TXX4254"/>
+<TOC_ITEM id="KP_TXX4260"/>
+<TOC_ITEM id="KP_TXX5124"/>
+<TOC_ITEM id="KP_TXX5130"/>
+<TOC_ITEM id="KP_TXX5136"/>
+<TOC_ITEM id="KP_TXX5142"/>
+<TOC_ITEM id="KP_TXX5148"/>
+<TOC_ITEM id="KP_TXX5154"/>
+<TOC_ITEM id="KP_TXX5160"/>
+<TOC_ITEM id="KP_TXX6624"/>
+<TOC_ITEM id="KP_TXX6630"/>
+<TOC_ITEM id="KP_TXX6636"/>
+<TOC_ITEM id="KP_TXX6642"/>
+<TOC_ITEM id="KP_TXX6648"/>
+<TOC_ITEM id="KP_TXX6654"/>
+<TOC_ITEM id="KP_TXX6660"/>
+</TOC_ITEMS>
+</LABEL>
+</LEVEL>
+</LABEL>
+</LEVEL>
+</LABEL>
+</LEVEL>
+</TABLE_OF_CONTENTS>
+<ITEMS>
+<ITEM depth="" height="" id="KP_TEE3024" line_id="line5084" package="1" pn="KP_TEE3024" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3024_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3024_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3030" line_id="line5084" package="1" pn="KP_TEE3030" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">179.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3030_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3030_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3036" line_id="line5084" package="1" pn="KP_TEE3036" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">187.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3036_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3036_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3042" line_id="line5084" package="1" pn="KP_TEE3042" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">202.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3042_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3042_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3048" line_id="line5084" package="1" pn="KP_TEE3048" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3048_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3048_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3054" line_id="line5084" package="1" pn="KP_TEE3054" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">232.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3054_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3054_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3060" line_id="line5084" package="1" pn="KP_TEE3060" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 30" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">245.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3060_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3060_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3624" line_id="line5084" package="1" pn="KP_TEE3624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">172.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3630" line_id="line5084" package="1" pn="KP_TEE3630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">181.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3636" line_id="line5084" package="1" pn="KP_TEE3636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">190.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3642" line_id="line5084" package="1" pn="KP_TEE3642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3648" line_id="line5084" package="1" pn="KP_TEE3648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">217.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3654" line_id="line5084" package="1" pn="KP_TEE3654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">234.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE3660" line_id="line5084" package="1" pn="KP_TEE3660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 36" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">248.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE3660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE3660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4224" line_id="line5084" package="1" pn="KP_TEE4224" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">183.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4224_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4224_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4230" line_id="line5084" package="1" pn="KP_TEE4230" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">197.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4230_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4230_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4236" line_id="line5084" package="1" pn="KP_TEE4236" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">209.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4236_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4236_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4242" line_id="line5084" package="1" pn="KP_TEE4242" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">222.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4242_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4242_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4248" line_id="line5084" package="1" pn="KP_TEE4248" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4248_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4248_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4254" line_id="line5084" package="1" pn="KP_TEE4254" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">254.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4254_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4254_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE4260" line_id="line5084" package="1" pn="KP_TEE4260" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 42" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">268.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE4260_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE4260_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5124" line_id="line5084" package="1" pn="KP_TEE5124" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5124_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5124_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5130" line_id="line5084" package="1" pn="KP_TEE5130" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5130_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5130_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5136" line_id="line5084" package="1" pn="KP_TEE5136" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">226.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5136_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5136_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5142" line_id="line5084" package="1" pn="KP_TEE5142" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">240.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5142_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5142_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5148" line_id="line5084" package="1" pn="KP_TEE5148" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">258.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5148_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5148_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5154" line_id="line5084" package="1" pn="KP_TEE5154" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">273.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5154_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5154_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE5160" line_id="line5084" package="1" pn="KP_TEE5160" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 51" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">290.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE5160_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE5160_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6624" line_id="line5084" package="1" pn="KP_TEE6624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">224.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6630" line_id="line5084" package="1" pn="KP_TEE6630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6636" line_id="line5084" package="1" pn="KP_TEE6636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">244.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6642" line_id="line5084" package="1" pn="KP_TEE6642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">260.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6648" line_id="line5084" package="1" pn="KP_TEE6648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">275.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6654" line_id="line5084" package="1" pn="KP_TEE6654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">293.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TEE6660" line_id="line5084" package="1" pn="KP_TEE6660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Elevated Cable Way 66" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">309.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TEE6660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TEE6660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3024" line_id="line5084" package="1" pn="KP_TUU3024" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3024_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3024_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3030" line_id="line5084" package="1" pn="KP_TUU3030" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3030_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3030_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3036" line_id="line5084" package="1" pn="KP_TUU3036" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">179.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3036_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3036_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3042" line_id="line5084" package="1" pn="KP_TUU3042" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">187.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3042_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3042_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3048" line_id="line5084" package="1" pn="KP_TUU3048" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">202.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3048_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3048_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3054" line_id="line5084" package="1" pn="KP_TUU3054" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3054_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3054_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3060" line_id="line5084" package="1" pn="KP_TUU3060" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 30" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">232.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3060_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3060_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3624" line_id="line5084" package="1" pn="KP_TUU3624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">245.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3630" line_id="line5084" package="1" pn="KP_TUU3630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">172.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3636" line_id="line5084" package="1" pn="KP_TUU3636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">181.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3642" line_id="line5084" package="1" pn="KP_TUU3642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">190.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3648" line_id="line5084" package="1" pn="KP_TUU3648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3654" line_id="line5084" package="1" pn="KP_TUU3654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">217.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU3660" line_id="line5084" package="1" pn="KP_TUU3660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 36" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">234.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU3660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU3660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4224" line_id="line5084" package="1" pn="KP_TUU4224" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">248.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4224_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4224_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4230" line_id="line5084" package="1" pn="KP_TUU4230" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">183.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4230_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4230_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4236" line_id="line5084" package="1" pn="KP_TUU4236" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">197.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4236_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4236_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4242" line_id="line5084" package="1" pn="KP_TUU4242" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">209.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4242_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4242_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4248" line_id="line5084" package="1" pn="KP_TUU4248" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">222.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4248_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4248_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4254" line_id="line5084" package="1" pn="KP_TUU4254" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4254_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4254_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU4260" line_id="line5084" package="1" pn="KP_TUU4260" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 42" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">254.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU4260_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU4260_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5124" line_id="line5084" package="1" pn="KP_TUU5124" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">268.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5124_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5124_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5130" line_id="line5084" package="1" pn="KP_TUU5130" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5130_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5130_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5136" line_id="line5084" package="1" pn="KP_TUU5136" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5136_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5136_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5142" line_id="line5084" package="1" pn="KP_TUU5142" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">226.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5142_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5142_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5148" line_id="line5084" package="1" pn="KP_TUU5148" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">240.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5148_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5148_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5154" line_id="line5084" package="1" pn="KP_TUU5154" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">258.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5154_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5154_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU5160" line_id="line5084" package="1" pn="KP_TUU5160" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 51" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">273.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU5160_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU5160_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6624" line_id="line5084" package="1" pn="KP_TUU6624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">290.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6630" line_id="line5084" package="1" pn="KP_TUU6630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">224.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6636" line_id="line5084" package="1" pn="KP_TUU6636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6642" line_id="line5084" package="1" pn="KP_TUU6642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">244.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6648" line_id="line5084" package="1" pn="KP_TUU6648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">260.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6654" line_id="line5084" package="1" pn="KP_TUU6654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">275.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TUU6660" line_id="line5084" package="1" pn="KP_TUU6660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Universal Lay in Channel and Base 66" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">293.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TUU6660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TUU6660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3024" line_id="line5084" package="1" pn="KP_TWW3024" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">309.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3024_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3024_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3030" line_id="line5084" package="1" pn="KP_TWW3030" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3030_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3030_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3036" line_id="line5084" package="1" pn="KP_TWW3036" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3036_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3036_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3042" line_id="line5084" package="1" pn="KP_TWW3042" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">179.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3042_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3042_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3048" line_id="line5084" package="1" pn="KP_TWW3048" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">187.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3048_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3048_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3054" line_id="line5084" package="1" pn="KP_TWW3054" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">202.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3054_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3054_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3060" line_id="line5084" package="1" pn="KP_TWW3060" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 30" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3060_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3060_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3624" line_id="line5084" package="1" pn="KP_TWW3624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">232.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3630" line_id="line5084" package="1" pn="KP_TWW3630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">245.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3636" line_id="line5084" package="1" pn="KP_TWW3636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">172.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3642" line_id="line5084" package="1" pn="KP_TWW3642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">181.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3648" line_id="line5084" package="1" pn="KP_TWW3648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">190.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3654" line_id="line5084" package="1" pn="KP_TWW3654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW3660" line_id="line5084" package="1" pn="KP_TWW3660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 36" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">217.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW3660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW3660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4224" line_id="line5084" package="1" pn="KP_TWW4224" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">234.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4224_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4224_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4230" line_id="line5084" package="1" pn="KP_TWW4230" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">248.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4230_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4230_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4236" line_id="line5084" package="1" pn="KP_TWW4236" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">183.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4236_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4236_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4242" line_id="line5084" package="1" pn="KP_TWW4242" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">197.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4242_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4242_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4248" line_id="line5084" package="1" pn="KP_TWW4248" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">209.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4248_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4248_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4254" line_id="line5084" package="1" pn="KP_TWW4254" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">222.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4254_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4254_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW4260" line_id="line5084" package="1" pn="KP_TWW4260" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 42" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW4260_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW4260_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5124" line_id="line5084" package="1" pn="KP_TWW5124" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">254.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5124_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5124_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5130" line_id="line5084" package="1" pn="KP_TWW5130" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">268.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5130_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5130_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5136" line_id="line5084" package="1" pn="KP_TWW5136" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5136_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5136_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5142" line_id="line5084" package="1" pn="KP_TWW5142" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5142_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5142_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5148" line_id="line5084" package="1" pn="KP_TWW5148" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">226.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5148_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5148_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5154" line_id="line5084" package="1" pn="KP_TWW5154" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">240.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5154_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5154_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW5160" line_id="line5084" package="1" pn="KP_TWW5160" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 51" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">258.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW5160_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW5160_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6624" line_id="line5084" package="1" pn="KP_TWW6624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">273.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6630" line_id="line5084" package="1" pn="KP_TWW6630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">290.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6636" line_id="line5084" package="1" pn="KP_TWW6636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">224.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6642" line_id="line5084" package="1" pn="KP_TWW6642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6648" line_id="line5084" package="1" pn="KP_TWW6648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">244.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6654" line_id="line5084" package="1" pn="KP_TWW6654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">260.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TWW6660" line_id="line5084" package="1" pn="KP_TWW6660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Conventional Cable Way and Base 66" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">275.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TWW6660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TWW6660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3024" line_id="line5084" package="1" pn="KP_TXX3024" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">293.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3024_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3024_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3030" line_id="line5084" package="1" pn="KP_TXX3030" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">309.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3030_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3030_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3036" line_id="line5084" package="1" pn="KP_TXX3036" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3036_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3036_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3042" line_id="line5084" package="1" pn="KP_TXX3042" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">169.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3042_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3042_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3048" line_id="line5084" package="1" pn="KP_TXX3048" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">179.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3048_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3048_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3054" line_id="line5084" package="1" pn="KP_TXX3054" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">187.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3054_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3054_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3060" line_id="line5084" package="1" pn="KP_TXX3060" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 30" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">202.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3060_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3060_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3624" line_id="line5084" package="1" pn="KP_TXX3624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3630" line_id="line5084" package="1" pn="KP_TXX3630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">232.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3636" line_id="line5084" package="1" pn="KP_TXX3636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">245.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3642" line_id="line5084" package="1" pn="KP_TXX3642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">172.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3648" line_id="line5084" package="1" pn="KP_TXX3648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">181.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3654" line_id="line5084" package="1" pn="KP_TXX3654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">190.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX3660" line_id="line5084" package="1" pn="KP_TXX3660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 36" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX3660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX3660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4224" line_id="line5084" package="1" pn="KP_TXX4224" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">217.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4224_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4224_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4230" line_id="line5084" package="1" pn="KP_TXX4230" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">234.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4230_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4230_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4236" line_id="line5084" package="1" pn="KP_TXX4236" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">248.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4236_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4236_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4242" line_id="line5084" package="1" pn="KP_TXX4242" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">183.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4242_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4242_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4248" line_id="line5084" package="1" pn="KP_TXX4248" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">197.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4248_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4248_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4254" line_id="line5084" package="1" pn="KP_TXX4254" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">209.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4254_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4254_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX4260" line_id="line5084" package="1" pn="KP_TXX4260" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 42" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">222.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX4260_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX4260_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5124" line_id="line5084" package="1" pn="KP_TXX5124" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5124_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5124_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5130" line_id="line5084" package="1" pn="KP_TXX5130" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">254.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5130_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5130_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5136" line_id="line5084" package="1" pn="KP_TXX5136" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">268.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5136_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5136_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5142" line_id="line5084" package="1" pn="KP_TXX5142" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">204.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5142_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5142_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5148" line_id="line5084" package="1" pn="KP_TXX5148" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">215.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5148_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5148_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5154" line_id="line5084" package="1" pn="KP_TXX5154" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">226.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5154_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5154_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX5160" line_id="line5084" package="1" pn="KP_TXX5160" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 51" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">240.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX5160_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX5160_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6624" line_id="line5084" package="1" pn="KP_TXX6624" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 24" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">258.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6624_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6624_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6630" line_id="line5084" package="1" pn="KP_TXX6630" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 30" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">273.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6630_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6630_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6636" line_id="line5084" package="1" pn="KP_TXX6636" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 36" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">290.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6636_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6636_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6642" line_id="line5084" package="1" pn="KP_TXX6642" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 42" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">224.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6642_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6642_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6648" line_id="line5084" package="1" pn="KP_TXX6648" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 48" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">235.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6648_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6648_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6654" line_id="line5084" package="1" pn="KP_TXX6654" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 54" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">244.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6654_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6654_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+<ITEM depth="" height="" id="KP_TXX6660" line_id="line5084" package="1" pn="KP_TXX6660" type_id="" vendor_id="vendor01" volume="" weight="" width="">
+<LONG_DESC>
+<TEXT lang_id="lang0" measure_id="meas0">Standard Panel Floor Flush Cable Way and Base 66" Height 60" Width</TEXT>
+</LONG_DESC>
+<PRICES percent="0">
+<PRICE zone_id="zone1">260.00</PRICE>
+</PRICES>
+<CAD_FILES>
+<CAD cad_id="AUTOCAD" offset1="0" offset2="0" offset3="0" offset4="0" offset5="0" offset6="0">
+<CAD_FILE view_id="view42">KP_TXX6660_2D.dwg</CAD_FILE>
+<CAD_FILE view_id="view43">KP_TXX6660_3D.dwg</CAD_FILE>
+</CAD>
+</CAD_FILES>
+<ITEM_GROUPS>
+<ITEM_GROUP id="grp1065" panel="0"/>
+<ITEM_GROUP id="grp1066" panel="0"/>
+<ITEM_GROUP id="grp1067" panel="0"/>
+</ITEM_GROUPS>
+</ITEM>
+</ITEMS>
+<GROUPS>
+<GROUP id="grp1065" multiple="0" name="grp1065">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Frame_Top_Finish</TEXT>
+</DESCRIPTIONS>
+<OPTIONS>
+<OPTION com="0" default="0" id="opt1843" name="WW" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Wood</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+<OPTION com="0" default="0" id="opt1844" name="FF" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Foundation</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+<OPTION com="0" default="0" id="opt1845" name="MM" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Mica</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+</OPTIONS>
+</GROUP>
+<GROUP id="grp1066" multiple="0" name="grp1066">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Gasket_Type</TEXT>
+</DESCRIPTIONS>
+<OPTIONS>
+<OPTION com="0" default="0" id="opt1846" name="SS" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Slim Gasket</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+<OPTION com="0" default="0" id="opt1847" name="WG" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Wide Gasket</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+</OPTIONS>
+</GROUP>
+<GROUP id="grp1067" multiple="0" name="grp1067">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Fabric</TEXT>
+</DESCRIPTIONS>
+<OPTIONS>
+<OPTION com="0" default="0" id="opt1848" name="F1" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Fabric Type1</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+<OPTION com="0" default="0" id="opt1849" name="F2" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Fabric Type2</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+<OPTION com="0" default="0" id="opt1850" name="F3" placeholder="0" quickship="0">
+<DESCRIPTIONS>
+<TEXT lang_id="lang0" measure_id="meas0">Fabric Type3</TEXT>
+</DESCRIPTIONS>
+<PRICES percent="1">
+<PRICE zone_id="zone1">0.0000</PRICE>
+</PRICES>
+</OPTION>
+</OPTIONS>
+</GROUP>
+</GROUPS>
+</CATALOG>
