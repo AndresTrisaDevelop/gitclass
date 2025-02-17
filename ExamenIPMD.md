@@ -74,21 +74,26 @@
 
 ## Preguntas de Ensayo Corto
 
-### 1. ¿Cómo conseguir que los cuadros de mando sigan funcionando tras reemplazar la base de datos por HDFS?
+### 1. Una entidad bancaria solía utilizar una herramienta de Business Intelligence conectada a una base de datos relacional. No obstante, su volumen de datos ahora es tan ingente que los cuadros de mando sobre agregaciones calculadas al vuelo en SQL han dejado de responder, por lo que se ha decidido reemplazar la base de datos por HDFS para almacenar toda la información. Explica en tres líneas cómo conseguir que los cuadros de mando sigan funcionando, detallando todas las modificaciones que habría que llevar a cabo. (Responder en 4 líneas) 
+### ¿Cómo conseguir que los cuadros de mando sigan funcionando tras reemplazar la base de datos por HDFS?
 Se debe utilizar una capa de consulta sobre HDFS, como Apache Hive o Impala, para ejecutar consultas SQL sobre los datos. Además, hay que modificar la herramienta de Business Intelligence para conectarla a esta nueva capa y optimizar las consultas con particionamiento y almacenamiento en formatos columnar como Parquet.  
 
-### 2. Uso de Spark Structured Streaming en una empresa de comercio electrónico:
+### 2. Una empresa multinacional de comercio electrónico pretende predecir si un usuario que entra en su web y ha hecho click en un producto, estará o no interesado en otro producto de la tienda, relacionado con el primero, y con qué probabilidad ocurrirá esto. El objetivo es decidir si se incluirá ese segundo producto o no en la lista de "sugerencias relacionadas" que aparecen en la página del primer producto en el que hizo click. Para ello, desea construir un modelo predictivo. Justifique con dos frases por apartado la respuesta a las siguientes preguntas: (a) ¿En qué parte de la solución Spark Structured Streaming SÍ sería útil? (b) ¿En qué parte de la solución NO sería útil? (Responder en 5 líneas) 
+### Uso de Spark Structured Streaming en una empresa de comercio electrónico:
 (a) **Sí sería útil** para procesar en tiempo real los clics del usuario y actualizar dinámicamente los modelos de recomendación.  
 (b) **No sería útil** para el entrenamiento completo del modelo, ya que esto requiere procesar grandes volúmenes de datos históricos y no flujos de datos en tiempo real.  
 
-### 3. ¿Por qué existen en Spark MLlib piezas que son entrenables sin ser modelos predictivos? Ejemplo:
+### 3. Explique en menos de 5 líneas por qué existen en Spark MLlib piezas que son entrenables sin ser modelos predictivos, y ponga algún ejemplo indicando qué es lo que se entrena. No se puntuará el ejemplo sin la explicación. (Responder en 7 líneas) 
+### ¿Por qué existen en Spark MLlib piezas que son entrenables sin ser modelos predictivos? Ejemplo:
 Algunas transformaciones como la normalización o reducción de dimensionalidad requieren entrenamiento para calcular estadísticas sobre los datos. Un ejemplo es PCA (Análisis de Componentes Principales), que aprende las combinaciones óptimas de atributos para reducir la dimensionalidad de los datos.  
 
-### 4. Orígenes de datos masivos y ejemplos:
+### 4. Enumerar los tres orígenes de los datos que se están generando masivamente en la actualidad y poner un ejemplo de cada uno. (Responder en 4 líneas) 
+### Orígenes de datos masivos y ejemplos:
 1. **Redes sociales** (ejemplo: publicaciones en Twitter).  
 2. **Sensores IoT** (ejemplo: datos de temperatura en fábricas).  
 3. **Transacciones financieras** (ejemplo: pagos con tarjeta en tiempo real).  
 
-### 5. Tecnologías recomendadas en una entidad bancaria:
+### 5. En una gran entidad bancaria de ámbito internacional, JUSTIFICAR (no basta mencionar), en dos líneas de texto cada una, la tecnología que se debería utilizar (y por qué) para (a) enviar al sistema los datos de una transacción realizada desde un cajero, y (b) ajustar un modelo predictivo de la cantidad de dinero que va a sacar un usuario, utilizando el histórico completo de transacciones realizadas en el pasado por los clientes de un país. No mencionar nada sobre almacenamiento. (Responder en 4 líneas) 
+### Tecnologías recomendadas en una entidad bancaria:
 (a) **Para enviar datos de una transacción en un cajero**, se recomienda Kafka, ya que permite procesar eventos en tiempo real con baja latencia.  
 (b) **Para ajustar un modelo predictivo de retiro de dinero**, se recomienda Spark MLlib, ya que permite procesar y entrenar modelos con grandes volúmenes de datos históricos de transacciones bancarias.  
